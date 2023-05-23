@@ -1,0 +1,1 @@
+{"version":"0.0.1","name":"api","dependencies":{"@nestjs/common":{"version":"9.4.2"},"@nestjs/core":{"version":"9.4.2"},"@nestjs/mapped-types":{"version":"1.2.2"},"@nestjs/platform-express":{"version":"9.4.2"},"class-transformer":{"version":"0.5.1"},"class-validator":{"version":"0.14.0"},"reflect-metadata":{"version":"0.1.13"},"rxjs":{"version":"7.8.1"}}}
